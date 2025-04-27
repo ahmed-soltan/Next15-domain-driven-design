@@ -2,12 +2,6 @@
 
 Welcome to the project! This document outlines the folder structure and architectural principles used in this Next.js 15 project. The goal is to keep the codebase modular, scalable, and developer-friendly.
 
-📂 Table of Contents
-- Overview
-- Folder Structure
-- Key Concepts
-- Notes
-
 📁 Overview
 This project uses the Next.js 15 App Router with a modular, domain-driven approach. Each feature or domain (such as auth, user, dashboard) is isolated to keep business logic clean, reusable, and maintainable.
 
